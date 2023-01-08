@@ -15,5 +15,3 @@ services:
     environment: 
       # Disable auth for now
       - NEO4J_dbms_security_auth__enabled=false
-
-      
