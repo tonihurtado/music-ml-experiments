@@ -1,0 +1,5 @@
+tools/bandcamp-scrapper-neo4j/data
+tools/bandcamp-dl/dl
+tests/
+*.vscode/
+*.DS_Store
